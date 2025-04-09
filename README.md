@@ -16,6 +16,10 @@ Este es un espacio abierto y comunitario para aprender a usar Git y GitHub en eq
 
 Podés proponer una idea en el archivo `ideas.md`. ¡Todo suma!
 
+## Recursos
+
+Encontrarás recursos útiles sobre certificación GitHub en el archivo [recursos.md](recursos.md).
+
 ## Reglas simples
 
 - Respetá a tus compañeros.
